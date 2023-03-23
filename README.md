@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Ruby, HTML, CSS and Javascript. 
 - 👨‍💻 All of my projects are available at [troopl.com/saracvital](troopl.com/saracvital)
-- - 📫 How to reach me **sara.c.vital@gmail.com**
+- 📫 How to reach me **sara.c.vital@gmail.com**
 - 💬 Ask me about anything, I'll be pleased to answer.
  
 <h3>My metrics:</h3>
